@@ -1,6 +1,6 @@
 # C Programming Assignments and Project
 
-This repository contains C programming assignments and one project submitted as part of academic requirements.
+This repository contains C programming assignments and one project.
 
  Assignments
 
